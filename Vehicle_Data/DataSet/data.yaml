@@ -1,0 +1,11 @@
+# paths of folders 
+path: E://Cars Data/Vehicle_Data # root folder path
+train: Vehicle_Data/DataSet/train/Images # train folder path
+val: Vehicle_Data/DataSet/train/Images # val folder path
+
+
+# Classes
+names:
+0: bicycle
+1: car
+2: bike
